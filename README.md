@@ -8,7 +8,7 @@ Contact-me on:
 [LinkedIn](https://linkedin.com/in/eugeniofreire)
 
 ![Eugênio's github stats](https://github-readme-stats.vercel.app/api?username=eugeniocarvalho&show_icons=true&theme=radical)
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning I’m currently learning JavaScript, HTML, CSS, NodeJS, NextJS, TailwindCSS, a few more things
