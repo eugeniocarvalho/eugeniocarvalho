@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=eugeniocarvalho.eugeniocarvalho)
-
 Meu nome é Eugênio Carvalho sou um desenvolvedor Full Stack, moro em Sobral-CE, Brasil e gosto muito de resolver problemas
 
 Contact-me on:
