@@ -3,7 +3,7 @@
 Meu nome é Eugênio Carvalho sou um desenvolvedor Front-end, moro em Sobral-CE, Brasil e gosto muito de resolver problemas e passo o dia pensando em como resolver coisas do dia a dia.
 
 Contact-me on:
-[LinkedIn](https://linkedin.com/in/eugeniofreire)
+[LinkedIn](https://linkedin.com/in/oeugeniocarvalho)
 
 ![Eugênio's github stats](https://github-readme-stats.vercel.app/api?username=eugeniocarvalho&show_icons=true&theme=radical)
 
