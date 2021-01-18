@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Meu nome é Eugênio Carvalho sou um desenvolvedor Front-end, moro em Sobral-CE, Brasil e gosto muito de resolver problemas e passo o dia pensando em como resolver coisas do dia a dia.
+My name is Eugênio Carvalho I am a Front-end developer, I live in Sobral-CE, Brazil I am studying things from the front-end to get my first job!
+
+
 
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/oeugeniocarvalho)
@@ -8,7 +10,6 @@ Contact-me on:
 
 ![Eugênio's github stats](https://github-readme-stats.vercel.app/api?username=eugeniocarvalho&show_icons=true&theme=radical)
 
-<img align="right" alt="GIF" src="https://i1.wp.com/www.coachingforgeeks.com/wp-content/uploads/2019/09/FixedByCat.gif?resize=450%2C320&ssl=1" />
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning I’m currently learning JavaScript, HTML, CSS, NodeJS, NextJS, TailwindCSS, a few more things
@@ -21,6 +22,6 @@ Contact-me on:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<div style="text-align: center; margin-top: 15rem;">
+<div style="text-align: center; margin-top: 3rem;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniocarvalho&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,php,shell,java">
 </div>
