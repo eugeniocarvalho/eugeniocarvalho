@@ -23,5 +23,5 @@ Contact-me on:
 - ⚡ Fun fact: ... -->
 
 <div style="text-align: center; margin-top: 3rem;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniocarvalho&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15&hide=jupyter%20notebook,html,c%2B%2B,php,shell,java">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniocarvalho&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15">
 </div>
