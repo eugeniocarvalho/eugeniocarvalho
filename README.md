@@ -12,7 +12,7 @@ Contact-me on:
 
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning I’m currently learning JavaScript, HTML, CSS, NodeJS, NextJS, TailwindCSS, a few more things
+- 🌱 I’m currently learning JavaScript, HTML, CSS, NodeJS, NextJS, TailwindCSS, a few more things
 - 👯 I'm looking to collaborate on many projects
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [Eugenio](https://www.instagram.com/_eugeniocarvalho)
